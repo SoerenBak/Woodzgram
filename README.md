@@ -1,3 +1,30 @@
+A simple instagram clone made with react and firebase. 
+
+Register, Login, Upload images and commenting on posts...
+
+https://woodzgram.web.app/ feel free to register and tryout my app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
